@@ -25,3 +25,7 @@ docker run -u zap -p 8080:8080 -p 8090:8090 -i owasp/zap2docker-stable zap-websw
 Then go to http://localhost:8080/zap/ in your browser:
 
 ![alt text](zap-app.png)
+
+# Reference
+
+https://www.zaproxy.org/docs/docker/about/
